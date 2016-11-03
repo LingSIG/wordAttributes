@@ -5,7 +5,7 @@ This is a repository of documents and encoding snippets, a basis for a feature r
 The overall principle invoked here is the well-known KISS (for "keep it simple, scholar, or else you will end up alone in your armchair, while many corpus linguists adopt other annotation formats"). At no point is it claimed that these suffice for comprehensive lexical/structural description in a world with a zillion taggers and umpteen popular linguistic theories. However, sometimes (quite often, in fact) these provide are just the right amount of information for just the right cost (and time) of processing. The trick is to keep this as a sort of "corpus TEI Simple" for those who require only these simple means or else they move to other formats to get them. And, at the same time, to make sure that these means of description are aligned with the robust apparatus that the TEI offers, featuring e.g. standoff annotation and/or feature-structure matrices.
 
 The deliverable should be, minimally, 
-* a set of definitions to be included in the source of the TEI Guidelines
+* a set of definitions to be included in the source of the TEI Guidelines; this includes a definition of an attribute class
 * the prose to accompany those definitions in the text of the appropriate chapter
 * short examples of use (for the documentation)
 * possibly "[Exemplars](https://github.com/TEIC/TEI/tree/dev/P5/Exemplars)" (more robust examples that can also act as a test suite)
